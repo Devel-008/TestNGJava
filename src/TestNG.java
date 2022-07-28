@@ -9,11 +9,12 @@ public class TestNG {
     @Test
     void test1()
     {
-        System.out.println("INSIDE TEST1!!");
+        System.out.println("INSIDE TEST1 !!");
     }
     @Test
     void test2()
     {
-        System.out.println("INSIDE TEST2!!!");
+        System.out.println("INSIDE TEST2 !!!");
     }
+
 }
